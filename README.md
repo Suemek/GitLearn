@@ -1,2 +1,0 @@
-# GitLearn
-funny
